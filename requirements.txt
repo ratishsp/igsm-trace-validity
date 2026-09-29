@@ -1,0 +1,8 @@
+torch>=2.1
+transformers>=5.5
+safetensors
+networkx
+numpy
+matplotlib
+wandb
+pytest
